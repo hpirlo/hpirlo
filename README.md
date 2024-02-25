@@ -4,4 +4,8 @@
 - 🤔 I’m looking for help with predictive maintenance
 - 💬 Ask me about electronics, IoT, AI/ML
 - 📫 How to reach me: hossein.pirhosseinloo@gmail.com
+- ✍️ I regularly update my github website: https://hpirlo.github.io/
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=hpirlo
+
 
