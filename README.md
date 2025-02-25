@@ -7,7 +7,7 @@
 - ✍️ I regularly update my GitHub website: https://hpirlo.github.io/
 ### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hpirlo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hpirlo&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hpirlo)](https://github.com/anuraghazra/github-readme-stats)
 
